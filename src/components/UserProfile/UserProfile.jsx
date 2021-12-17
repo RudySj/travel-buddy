@@ -1,8 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Icon, Popup } from 'semantic-ui-react'
 
-import AvatarPicture from '../../assets/avatar-picture.jpeg'
+import AvatarPicture from '../../assets/logo.svg'
 
 const Container = styled.div({
   display: 'flex',
