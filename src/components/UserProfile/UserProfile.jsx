@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import AvatarPicture from '../../assets/logo.svg'
+import AvatarPicture from '../../assets/react-logo.svg'
 
 const Container = styled.div({
   display: 'flex',
